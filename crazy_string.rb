@@ -6,4 +6,4 @@ def crazy_strings(a,b)
   return "#{a} #{b}"
 end
 
-puts crazy_strings("Hello", "Friends")
+puts crazy_strings("Hello","Friends")
